@@ -6,5 +6,13 @@ public class firstproject{
         C = C << 3;
 
         System.out.println(C);
+        System.out.println("Welcome to MSU-IIT.");
+        System.out.println("Welcome to MSU-IIT.");
+        System.out.println("Welcome to MSU-IIT.");
+        System.out.println("Welcome to MSU-IIT.");
+        System.out.println("Welcome to MSU-IIT.");
+        System.out.println("Welcome to MSU-IIT.");
+
+
     }
 }
